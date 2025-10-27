@@ -63,5 +63,5 @@ There are two basic and universal rules regarding the use of information in acad
     A paraphrase employs source material by restating an idea in an entirely new form that is original in both sentence structure and word choice. Taking the basic structure from a source and substituting a few words is an unacceptable paraphrase and may be construed as plagiarism. Creating a new sentence by merging the wording of two or more sources is also plagiarism. The penalty for plagiarism is an automatic Fail for this class and a letter of notification to the Committee on Discipline.   
       
     MIT's academic honesty policy can be found at the following link:   
-    [http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/](http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/)
+    {{% resource_link "6ce2a85e-b3b4-4e16-a677-276caac0822a" "http://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/" %}}
 2. If you use ideas or information that are not common knowledge, you must cite a source.
